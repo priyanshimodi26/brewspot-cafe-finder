@@ -3,7 +3,7 @@
 A modern, interactive web application that helps users discover and save their favorite cafes nearby using swipe-based interactions, similar to popular dating apps.
 
 ## Preview<img width="1919" height="872" alt="BrewSpot-demo" src="https://github.com/user-attachments/assets/7b1f5ba0-7b1d-4e89-bd8c-442b5a166c02" />
-)
+
 
 
 ## 🌟 Features
@@ -151,3 +151,4 @@ Project Link: [https://github.com/priyanshimodi26/cafe-finder](https://priyanshi
 ---
 
 ⭐️ If you found this project helpful, please consider giving it a star!
+
