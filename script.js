@@ -1,5 +1,5 @@
 // Replace with your actual Google API key
-const apiKey = "AIzaSyCXKdczfWQ-R_7jmJjJ9haE2DPqR2Te28o";
+const apiKey = "YOUR_API_KEY";
 const useProxy = true;
 const proxy = "https://cors-anywhere.herokuapp.com/";
 
@@ -153,4 +153,5 @@ window.addEventListener('DOMContentLoaded', () => {
   if (findBtn) {
     findBtn.addEventListener('click', getLocation);
   }
+
 });
